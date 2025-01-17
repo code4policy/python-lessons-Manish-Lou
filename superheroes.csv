@@ -1,0 +1,4 @@
+name,age,secretIdentity,powers,squadName,homeTown,formed,secretBase,active
+Molecule Man,29,Dan Jukes,"['Radiation resistance', 'Turning tiny', 'Radiation blast']",Super Hero Squad,Metro City,2016,Super tower,True
+Madame Uppercut,39,Jane Wilson,"['Million tonne punch', 'Damage resistance', 'Superhuman reflexes']",Super Hero Squad,Metro City,2016,Super tower,True
+Eternal Flame,1000000,Unknown,"['Immortality', 'Heat Immunity', 'Inferno', 'Teleportation', 'Interdimensional travel']",Super Hero Squad,Metro City,2016,Super tower,True
